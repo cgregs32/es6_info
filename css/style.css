@@ -1,0 +1,31 @@
+body{
+  background: #92BCEA;
+}
+
+#card-img img{
+  /*max-width: 50%;*/
+  height: 150px;
+  width: 150px;
+  align-items: center
+}
+#card-img{
+  height: 200;
+  width: 200;
+  justify-content: center;
+  display: flex;
+
+  padding: 3% 0 0% 5%;
+}
+#card-content{
+  padding: 3%;
+  width: 70%;
+  font-size: 18px;
+}
+
+.container-style{
+  height: 30%
+}
+h1{
+  background: #9D96B8;
+  padding: 3%;
+}
